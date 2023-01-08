@@ -1,0 +1,21 @@
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe.config
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.pdb
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csprojAssemblyReference.cache
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Form1.resources
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Properties.Resources.resources
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.exe
+C:\Users\Renzo Diaz\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.pdb
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe.config
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.pdb
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Form1.resources
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Properties.Resources.resources
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.exe
+C:\Users\USER\Desktop\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.pdb
