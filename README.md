@@ -1,6 +1,6 @@
 # Notepad-C-Sharp
 Simple Notepad project made with .NET Framework.
-With this app you can create, read and edit plain text. Includes capabilies of save a new file, cut, copy and paste text. word wrap of lines, and change font type, color, style and size using the native Windows dialog.
+With this app you can create, read and edit plain text. Includes capabilies of save a new file, cut, copy and paste text. word wrap of lines, and change font type, color, style and size using the native Windows dialog, simmilarly to tho official Notepad app for Windows.
 
 Technologies used:
 
