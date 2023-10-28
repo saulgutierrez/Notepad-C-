@@ -5,4 +5,6 @@ With this app you can create, read and edit plain text. Includes capabilies of s
 Technologies used:
 
 <li>C#</li>
-<li>.NET Framework 6.0</li>
+<li>.NET Framework 6.0</li> <br>
+
+![main-view-notepad](https://github.com/saulgutierrez/Notepad-C-Sharp/assets/62368834/672f5b44-6173-465e-9941-c6f80bc31352)
